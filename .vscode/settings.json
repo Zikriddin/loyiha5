@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zikriddin/.vscode/extensions/stefanwehr.write-your-python-program-0.11.2/python/src/"
+    ]
+}
